@@ -1,62 +1,47 @@
 [
   {
     "offset": 0,
-    "length": 7000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard0"
   },
   {
-    "offset": 7000000,
-    "length": 7000000,
+    "offset": 10000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard1"
   },
   {
-    "offset": 14000000,
-    "length": 7000000,
+    "offset": 20000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard2"
   },
   {
-    "offset": 21000000,
-    "length": 7000000,
+    "offset": 30000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard3"
   },
   {
-    "offset": 28000000,
-    "length": 7000000,
+    "offset": 40000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard4"
   },
   {
-    "offset": 35000000,
-    "length": 7000000,
+    "offset": 50000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard5"
   },
   {
-    "offset": 42000000,
-    "length": 7000000,
+    "offset": 60000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard6"
   },
   {
-    "offset": 49000000,
-    "length": 7000000,
+    "offset": 70000000,
+    "length": 10000000,
     "filename": "doc_aligner.ort.shard7"
   },
   {
-    "offset": 56000000,
-    "length": 7000000,
+    "offset": 80000000,
+    "length": 3254472,
     "filename": "doc_aligner.ort.shard8"
-  },
-  {
-    "offset": 63000000,
-    "length": 7000000,
-    "filename": "doc_aligner.ort.shard9"
-  },
-  {
-    "offset": 70000000,
-    "length": 7000000,
-    "filename": "doc_aligner.ort.shard10"
-  },
-  {
-    "offset": 77000000,
-    "length": 6254472,
-    "filename": "doc_aligner.ort.shard11"
   }
 ]
