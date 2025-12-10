@@ -1,47 +1,62 @@
 [
   {
     "offset": 0,
-    "length": 10000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard0"
   },
   {
-    "offset": 10000000,
-    "length": 10000000,
+    "offset": 7000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard1"
   },
   {
-    "offset": 20000000,
-    "length": 10000000,
+    "offset": 14000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard2"
   },
   {
-    "offset": 30000000,
-    "length": 10000000,
+    "offset": 21000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard3"
   },
   {
-    "offset": 40000000,
-    "length": 10000000,
+    "offset": 28000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard4"
   },
   {
-    "offset": 50000000,
-    "length": 10000000,
+    "offset": 35000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard5"
   },
   {
-    "offset": 60000000,
-    "length": 10000000,
+    "offset": 42000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard6"
   },
   {
-    "offset": 70000000,
-    "length": 10000000,
+    "offset": 49000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard7"
   },
   {
-    "offset": 80000000,
-    "length": 3084930,
+    "offset": 56000000,
+    "length": 7000000,
     "filename": "doc_aligner.onnx.shard8"
+  },
+  {
+    "offset": 63000000,
+    "length": 7000000,
+    "filename": "doc_aligner.onnx.shard9"
+  },
+  {
+    "offset": 70000000,
+    "length": 7000000,
+    "filename": "doc_aligner.onnx.shard10"
+  },
+  {
+    "offset": 77000000,
+    "length": 6084930,
+    "filename": "doc_aligner.onnx.shard11"
   }
 ]
